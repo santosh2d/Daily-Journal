@@ -1,0 +1,6 @@
+{
+  "name": "Daily Journal",
+  "description": "A secure, encrypted daily journal app with cloud sync settings, photo entries, mood selector, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
